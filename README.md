@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code e suas incríveis extensões, NetBeans, Navicat, Github
+  💼 Ferramentas: Visual Studio Code e suas incríveis extensões, NetBeans, Navicat, Github.
+</p>
+
+<p align="left">
+  💻 Projetos: Acesse o meu <a href="https://joaonascimento-dev.github.io/portfolio/">Portifólio!</a>
 </p>
 
 <p align="left">
