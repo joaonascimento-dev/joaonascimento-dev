@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"-->
+<img src="https://github.com/joaonascimento-dev/portfolio/blob/main/img/logo.png?raw=true" alt="Logo João Nascimento Full-Stack Dev" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Olá, meu nome é João, seja bem-vindo!
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  💻 Projetos: Acesse o meu <a href="https://joaonascimento-dev.github.io/portfolio/">Portifólio!</a>
+  💻 Projetos: Acesse o meu <a href="https://joaonascimento-dev.github.io/portfolio/">Portfólio!</a>
 </p>
 
 <p align="left">
