@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/joaonascimento-dev/portfolio/blob/main/img/logo.png?raw=true" alt="Logo João Nascimento Full-Stack Dev" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá, meu nome é João, seja bem-vindo!
+<h3>Olá, meu nome é João, seja bem-vindo!</h3>
 
 <p align="left"> 
   Desenvolvedor <strong>Full-Stack</strong>.<br>
-  Atualmente trabalhando como Desenvolvedor Full-Stack e cursando Desenvolvimento de Software Multiplataforma.
+  Atualmente trabalhando como Desenvolvedor Java e cursando Desenvolvimento de Software Multiplataforma.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, MySQL, HTML, CSS, Bootstrap, Javascript, PHP, aberto ao estudo de qualquer outra linguagem ou framework.
+  🦄 Linguagens: Java, MySQL, HTML, CSS, Bootstrap, Javascript, PHP, Dart, Flutter, e aberto ao estudo de qualquer outra linguagem ou framework.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code e suas incríveis extensões, NetBeans, Navicat, Github.
+  💼 Ferramentas: Visual Studio Code e suas incríveis extensões, NetBeans, Android Studio, Navicat, Github.
 </p>
 
 <p align="left">
