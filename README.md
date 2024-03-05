@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/joaonascimento-dev/portfolio/blob/main/img/logo.png?raw=true" alt="Logo João Nascimento Full-Stack Dev" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3>Olá, meu nome é João, seja bem-vindo!</h3>
+### Olá, meu nome é João, seja bem-vindo!
 
 <p align="left"> 
   Desenvolvedor <strong>Full-Stack</strong>.<br>
