@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimento-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimento-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&"
         alt="Github Stats"
       />
     </td>
