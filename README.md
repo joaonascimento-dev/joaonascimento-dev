@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   Desenvolvedor <strong>Full-Stack</strong>.<br>
-  Atualmente trabalhando como Desenvolvedor Java e cursando Desenvolvimento de Software Multiplataforma.
+  Atualmente Freelancer e graduado em Desenvolvimento de Software Multiplataforma.
 </p>
 
 <p align="left">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="mailto:joaonascimento.trab@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaonascimento.trab@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-silva-2277a91a2?trk=contact-info" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-silva-2277a91a2?trk=contact-info" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-nascimento/" alt="LinkedIn"/></a>
   <!--a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
   <a href="#" title="Facebook">
